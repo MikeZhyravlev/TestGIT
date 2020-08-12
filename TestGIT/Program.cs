@@ -11,6 +11,7 @@ namespace TestGIT
         static void Main(string[] args)
         {
             var someshit = 25;
+            var test = 25;
         }
     }
 }
